@@ -1,0 +1,45 @@
+body {
+    background-color: #15171c;
+}
+
+
+main {
+    margin-inline: 80px;
+    margin-top: 40px;
+    
+}
+.navbar {
+    background-color: #1b1d24;
+    border-radius: 25px 25px;
+    display: flex;
+    justify-content: left;
+    justify-content: space-around;
+    
+}
+.logga {
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #1b1d24;
+    border-color: #1b1d24;
+    
+}
+button:hover {
+    background-color: black;
+}
+
+.market {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: #1b1d24;
+    border-color: #1b1d24;
+}
+.marketclass {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 75px;
+    width: 75px;
+}
+
